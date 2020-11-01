@@ -1,0 +1,13 @@
+.app {
+  background: #757f9a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #757f9a,
+    #d7dde8
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #757f9a, #d7dde8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
